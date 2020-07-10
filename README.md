@@ -1,6 +1,6 @@
 # Hi Folks! 
 
-<a src="https://steamcommunity.com/sharedfiles/filedetails/?id=1364113352" alt="Hi folks!" width=40 height=40/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2441390788349933701/6B3A31CEC953D38FA7A668ACB0132408811E9D4F/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Hi folks!" width=40 height=40/>
 
 ### My name is Laura Oliveira 
 
