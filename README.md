@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: 
-    🎯 Linkedin: https://www.linkedin.com/in/laura-oliveira10/
-    🎯 Medium: https://medium.com/@laura.regina.cp 
-    🎯 Portfolio: https://laura-oliveira.github.io/
-    🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
+    -🎯 Linkedin: https://www.linkedin.com/in/laura-oliveira10/
+    -🎯 Medium: https://medium.com/@laura.regina.cp 
+    -🎯 Portfolio: https://laura-oliveira.github.io/
+    -🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
 - ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas.
 -->
