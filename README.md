@@ -8,8 +8,6 @@
 
 ✅ Actually I'm looking for Mobile Development opportunies. If you know about something, let me know 😉
 
-Here are some ideas to get you started:
-
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: Mobile Android Development (Java) 
 - 🌱 I’m currently learning: Android Development
