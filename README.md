@@ -16,7 +16,7 @@
     - 🎯 Medium: https://medium.com/@laura.regina.cp 
     - 🎯 Portfolio: https://laura-oliveira.github.io/
     - 🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
-- ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas.
+- ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas
 
 
 <!-- - 👯 I’m looking to collaborate on ... 
