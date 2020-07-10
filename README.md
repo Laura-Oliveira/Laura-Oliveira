@@ -1,6 +1,6 @@
 # Hi Folks! 
 
-![Alt text](https://steamcommunity.com/sharedfiles/filedetails/?id=1364113352 "Hi folks!")
+<a src="https://steamcommunity.com/sharedfiles/filedetails/?id=1364113352" alt="Hi folks!" width=40 height=40/>
 
 ### My name is Laura Oliveira 
 
