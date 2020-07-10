@@ -4,7 +4,7 @@
 
 ### My name is Laura Oliveira 
 
-### I'm Mobile Deeloper
+### I'm Mobile Developer
 
 ✅ Actually I'm looking for Mobile Development opportunies. If you know about something, let me know 😉
 
