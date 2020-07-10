@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi Folks! 
 
-<!--
-**Laura-Oliveira/Laura-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Alt text](https://steamcommunity.com/sharedfiles/filedetails/?id=1364113352 "Hi folks!")
+
+### My name is Laura Oliveira 
+
+### I'm Mobile Deeloper
+
+✅ Actually I'm looking for Mobile Development opportunies. If you know about something, let me know 😉
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 😄 Pronouns: She/Her
+- 🔭 I’m currently working on: Mobile Android Development (Java) 
+- 🌱 I’m currently learning: Android Development
+<!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about ... -->
+- 📫 How to reach me: 
+    🎯 Linkedin: https://www.linkedin.com/in/laura-oliveira10/
+    🎯 Medium: https://medium.com/@laura.regina.cp 
+    🎯 Portfolio: https://laura-oliveira.github.io/
+    🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
+- ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas.
 -->
