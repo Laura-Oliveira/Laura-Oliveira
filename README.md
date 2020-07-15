@@ -6,7 +6,7 @@
 
 ### I'm a Mobile Developer
 
-✅ Actually I'm looking for Mobile Development opportunies. If you know about something, let me know 😉
+✅ Actually I'm looking for Mobile Development opportunities. If you know about something, let me know 😉
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: Mobile Android Development (Java) 
