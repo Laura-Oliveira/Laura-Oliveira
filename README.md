@@ -9,13 +9,16 @@
 ✅ Actually I'm looking for Mobile Development opportunities. If you know about something, let me know 😉
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on: Mobile Android Development (Java) 
+- 🔭 I’m currently working on: Mobile Android Development (Java/Kotlin) 
 - 🌱 I’m currently learning: Android Development
+    🎯 Material Design
+    🎯 Android Concepts
+    🎯 Object Oriented Concepts
 - 📫 How to reach me: 
-    - 🎯 Linkedin: https://www.linkedin.com/in/laura-oliveira10/
-    - 🎯 Medium: https://medium.com/@laura.regina.cp 
-    - 🎯 Portfolio: https://laura-oliveira.github.io/
-    - 🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
+    🎯 Linkedin: www.linkedin.com/in/laura-oliveira-mobile
+    🎯 Medium: https://medium.com/@laura.regina.cp 
+    🎯 Portfolio: https://laura-oliveira.github.io/
+    🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
 - ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas
 
 
