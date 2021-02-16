@@ -6,7 +6,7 @@
 
 ### I'm a Mobile Developer
 
-✅ I'm a Front End/Mobile Developer and I'm a super cat lover haha.
+✅ I'm a Front End and Mobile Developer and I'm a super cat lover haha.
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: Front End Development (React.js)
