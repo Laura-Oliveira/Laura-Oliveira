@@ -6,11 +6,11 @@
 
 ### I'm a Mobile Developer
 
-✅ Actually I'm looking for Mobile Development opportunities. If you know about something, let me know 😉
+✅ I'm a Front End/Mobile Developer and I'm a super cat lover haha.
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on: Mobile Android Development (Java/Kotlin) 
-- 🌱 I’m currently learning: Android Development
+- 🔭 I’m currently working on: Front End Development (React.js)
+- 🌱 I’m currently learning: Android Development (Java/Kotlin) and Front End Development (React.js)
   - 🎯 Material Design
   - 🎯 Android Concepts
   - 🎯 Object Oriented Concepts
