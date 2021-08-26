@@ -16,7 +16,7 @@
   - 🎯 Object Oriented Concepts
 - 📫 How to reach me: 
   - 🎯 Linkedin: www.linkedin.com/in/laura-oliveira-mobile
-  - 🎯 Medium: https://medium.com/@laura.regina.cp 
+  - 🎯 Medium:  https://laura-regina-cp.medium.com/
   - 🎯 Portfolio: https://laura-oliveira.github.io/
   - 🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
 - ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas
