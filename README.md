@@ -10,7 +10,7 @@
 
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on: Front End Development (React.js)
-- 🌱 I’m currently learning: Android Development (Java/Kotlin) and Front End Development (React.js)
+- 🌱 I’m currently learning: Android Development (Java/Kotlin)
   - 🎯 Material Design
   - 🎯 Android Concepts
   - 🎯 Object Oriented Concepts
