@@ -28,9 +28,12 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=white&)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
+![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=for-the-badge&logo=gradle)&nbsp;
+![Material Design](https://img.shields.io/badge/-MaterialDesign-05122A?style=for-the-badge&logo=materialdesign)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=for-the-badge&logo=androidstudio&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBi-05122A?style=for-the-badge&logo=powerbi)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 ### Analytics ⚙️
