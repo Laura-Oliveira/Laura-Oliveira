@@ -27,6 +27,7 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=green)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=for-the-badge&logo=gradle&logoColor=green)&nbsp;
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-05122A?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;
