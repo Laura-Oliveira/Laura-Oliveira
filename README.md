@@ -30,6 +30,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=for-the-badge&logo=gradle&logoColor=green)&nbsp;
 ![Material Design](https://img.shields.io/badge/-MaterialDesign-05122A?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;
+![Google Maps API](https://img.shields.io/badge/-GoogleMaps-05122A?style=for-the-badge&logo=googlemaps)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=for-the-badge&logo=androidstudio&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
