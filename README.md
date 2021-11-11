@@ -33,7 +33,9 @@
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&layout=compact&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&layout=compact&count_private=true) -->
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true)
 
