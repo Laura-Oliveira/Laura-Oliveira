@@ -22,6 +22,23 @@
 - ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas
 
 
+### Languages & Tools 🛠  
+
+![Android] (https://iconape.com/android-logomark-logo-icon-svg-png.html?style=flat&logo=Java&logoColor=white)&nbsp;
+![Java](https://images.app.goo.gl/PqqphNWpAhkH1sXY8style=flat&logo=Java&logoColor=white)&nbsp;
+![Kotlin](https://images.app.goo.gl/v324cvDcpw89jM7m8?style=flat&logo=kotlin)&nbsp;
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-
+Oliveira&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-
+Oliveira&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true)
+
+
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me aboout ... -->
