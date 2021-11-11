@@ -25,8 +25,11 @@
 ### Languages & Tools 🛠  
 
 ![Android] (https://iconape.com/android-logomark-logo-icon-svg-png.html?style=flat&logo=Java&logoColor=white)&nbsp;
-![Java](https://images.app.goo.gl/PqqphNWpAhkH1sXY8style=flat&logo=Java&logoColor=white)&nbsp;
-![Kotlin](https://images.app.goo.gl/v324cvDcpw89jM7m8?style=flat&logo=kotlin)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### Analytics ⚙️
 
