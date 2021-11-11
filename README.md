@@ -27,9 +27,10 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=green)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=white&)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-05122A?style=for-the-badge&logo=androidstudio&logoColor=green)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 
 ### Analytics ⚙️
 
