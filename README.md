@@ -9,7 +9,7 @@
 ✅ I'm a Mobile Developer and I'm a super cat lover haha.
 
 - 😄 Pronouns: She/Her
-- 🔭 I’m currently working on: Front End Development (React.js)
+- 🔭 I’m currently working on: Java
 - 🌱 I’m currently learning: Android Development (Java/Kotlin)
   - 🎯 Material Design
   - 🎯 Android Concepts
