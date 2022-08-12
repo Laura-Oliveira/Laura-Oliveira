@@ -8,20 +8,22 @@
 
 ✅ I'm a Mobile Developer and I'm a super cat lover haha.
 
-- 😄 Pronouns: She/Her
-- 🔭 I’m currently working on: Android Development (Java)
-- 🌱 I’m currently learning: Android Development (Java/Kotlin)
-  - 🎯 MVVM;
-  - 🎯 Material Design;
-  - 🎯 Android Concepts.
+ 😄 Pronouns: She/Her
+ 
+ 🔭 I’m currently working on: Android Development (Java)
+ 
+ 🌱 I’m currently learning: Android Development (Java/Kotlin)
+   *  MVVM;
+   * Material Design;
+   * Android Concepts.
   
   
-- 📫 How to reach me: 
- - 🎯 ** Linkedin: ** www.linkedin.com/in/laura-oliveira-mobile
-#### - 🎯 Medium:  https://laura-regina-cp.medium.com
-#### - 🎯 Portfolio: https://laura-oliveira.github.io/
-#### - 🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
-#### - 🎯 Email: laura.oliveira.tech@gmail.com
+ 📫 How to reach me: 
+ - 🎯 **Linkedin:** www.linkedin.com/in/laura-oliveira-mobile
+ - 🎯 **Medium:**  https://laura-regina-cp.medium.com
+ - 🎯 **Portfolio:** https://laura-oliveira.github.io/
+ - 🎯 **Instagram about Android:** https://www.instagram.com/androidando_com_voce/
+ - 🎯 **Email:** laura.oliveira.tech@gmail.com
   
 - ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas
 
