@@ -17,7 +17,7 @@
   
   
 - 📫 How to reach me: 
-  - 🎯 #### Linkedin: #### www.linkedin.com/in/laura-oliveira-mobile
+  - 🎯 ### Linkedin: ### www.linkedin.com/in/laura-oliveira-mobile
   - 🎯 Medium:  https://laura-regina-cp.medium.com/
   - 🎯 Portfolio: https://laura-oliveira.github.io/
   - 🎯 Instagram about Android: https://www.instagram.com/androidando_com_voce/
