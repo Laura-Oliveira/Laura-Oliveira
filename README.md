@@ -1,6 +1,6 @@
 # Hi Folks! 
 
-<img src="https://pa1.narvii.com/6439/79b3a59275e2c864ec2b6abf4dc2857e61549ba2_hq.gif" alt="Hi folks!" width=400 height=250/>
+<img src="https://pa1.narvii.com/6439/79b3a59275e2c864ec2b6abf4dc2857e61549ba2_hq.gif" alt="Hi folks!" width=400 height=350/>
 
 ### My name is Laura Oliveira 
 
