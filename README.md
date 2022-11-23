@@ -17,7 +17,7 @@
  🔭 I’m currently working on: Android Development (Java/Kotlin)
  
  🌱 I’m currently learning: Android Development (Java/Kotlin)
-   *  MVVM;
+   * MVVM;
    * Material Design;
    * Android Concepts;
    * Courotines com Retrofit.
