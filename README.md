@@ -4,19 +4,23 @@
 
 ### My name is Laura Oliveira 
 
-### I'm a Mobile Developer
+### I'm a Mobile Developer Android
 
-✅ I'm a Mobile Developer and I'm a super cat lover haha.
+✅ I'm a super cat lover <3
+
+ - 🎯 I have 5 years of experience in the IT sector;
+ - 🎯 Mobile Android (1 year) (current focus);
+ - 🎯 I have a college degree in System Analysis field (Instituto Federal of Pernambuco - IFPE).
 
  😄 Pronouns: She/Her
  
- 🔭 I’m currently working on: Android Development (Java)
+ 🔭 I’m currently working on: Android Development (Java/Kotlin)
  
  🌱 I’m currently learning: Android Development (Java/Kotlin)
    *  MVVM;
    * Material Design;
-   * Android Concepts.
-  
+   * Android Concepts;
+   * Courotines com Retrofit.
   
  📫 How to reach me: 
  - 🎯 **Linkedin:** www.linkedin.com/in/laura-oliveira-mobile
