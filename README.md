@@ -6,8 +6,6 @@
 
 ### I'm a Mobile Developer Android
 
-✅ I'm a super cat lover <3
-
  - 🎯 I have 5 years of experience in the IT sector;
  - 🎯 Mobile Android (1 year) (current focus);
  - 🎯 I have a college degree in System Analysis field (Instituto Federal of Pernambuco - IFPE).
@@ -64,4 +62,6 @@
 
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me aboout ... -->
+- 💬 Ask me aboout ...
+ 
+✅ I'm a super cat lover <3-->
