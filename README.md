@@ -7,7 +7,7 @@
 ### I'm a Mobile Developer Android
 
  - 🎯 I have 6 years of experience in the IT sector;
- - 🎯 Mobile Android (1.4 year) (current focus);
+ - 🎯 Mobile Android (1.5 year) (current focus);
  - 🎯 I have a college degree in System Analysis field (Instituto Federal of Pernambuco - IFPE).
 
  😄 Pronouns: She/Her
