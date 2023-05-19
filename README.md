@@ -7,17 +7,20 @@
 ### I'm a Mobile Developer Android
 
  - 🎯 I have 6 years of experience in the IT sector;
- - 🎯 Mobile Android (1.5 year) (current focus);
+ - 🎯 Mobile Android (2 years) (current focus);
  - 🎯 I have a college degree in System Analysis field (Instituto Federal of Pernambuco - IFPE).
 
  😄 Pronouns: She/Her
  
  🔭 I’m currently working on: Android Development (Java/Kotlin)
  
- 🌱 I’m currently learning: Android Development (Java/Kotlin)
+ 🌱 I’m currently learning: Mobile Development (Java/Kotlin)
+   * iOS;
+   * Kotlin;
    * MVVM;
+   * Firebase;
    * Material Design;
-   * Android Concepts;
+   * Clean Architecture;
    * Courotines com Retrofit.
   
  📫 How to reach me: 
