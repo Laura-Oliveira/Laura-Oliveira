@@ -4,11 +4,11 @@
 
 ### My name is Laura Oliveira 
 
-### I'm a Mobile Developer Android
+### I'm a Mobile Developer
 
- - 🎯 I have 6 years of experience in the IT sector;
- - 🎯 Mobile Android (2 years) (current focus);
- - 🎯 I have a college degree in System Analysis field by Instituto Federal of Pernambuco - IFPE (graduated in 2021).
+ - 🎯 I have **6 years of experience** in the **IT sector**;
+ - 🎯 **Mobile Android (2 years) (current focus)**;
+ - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
 
  😄 Pronouns: She/Her
  
