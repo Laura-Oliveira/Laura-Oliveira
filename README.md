@@ -29,7 +29,7 @@
  - 🎯 **Instagram about Android:** https://www.instagram.com/androidando_com_voce/
  - 🎯 **Email:** laura.oliveira.tech@gmail.com
   
-- ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas
+- ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas.
 
 
 ### Languages & Tools 🛠  
