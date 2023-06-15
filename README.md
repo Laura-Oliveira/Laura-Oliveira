@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on: Android Development (Java/Kotlin)
  
- 🌱 I’m currently learning: Mobile Development (Java/Kotlin)
+ 🌱 I’m currently learning:
    * iOS;
    * Kotlin;
    * MVVM;
@@ -28,9 +28,6 @@
  - 🎯 **Portfolio:** https://laura-oliveira.github.io/
  - 🎯 **Email:** laura.oliveira.tech@gmail.com
  - 🎯 **Phone:** <a href="https://wa.me/+5581997207924"> Send a message </a>
-  
-- ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas.
-
 
 ### Languages & Tools 🛠  
 
