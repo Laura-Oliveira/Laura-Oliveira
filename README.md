@@ -52,8 +52,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&layout=compact&count_private=true) -->
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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&theme=shades-of-purple)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)
