@@ -1,6 +1,6 @@
 # Hi Folks! 
 
-<img src="https://pa1.narvii.com/6439/79b3a59275e2c864ec2b6abf4dc2857e61549ba2_hq.gif" alt="Hi folks!" width=400 height=400/>
+<img src="https://media.licdn.com/dms/image/D4D03AQES1_bmBBsnKQ/profile-displayphoto-shrink_800_800/0/1684536820679?e=2147483647&v=beta&t=sAlK3kFAnFddSFiyi4fN9JmHtjFJF3KYSREBLLJRRmA" alt="Hi folks!" width=400 height=400/>
 
 ### My name is Laura Oliveira 
 
@@ -26,8 +26,8 @@
  📫 How to reach me: 
  - 🎯 **Linkedin:** www.linkedin.com/in/laura-oliveira-mobile
  - 🎯 **Portfolio:** https://laura-oliveira.github.io/
- - 🎯 **Instagram about Android:** https://www.instagram.com/androidando_com_voce/
  - 🎯 **Email:** laura.oliveira.tech@gmail.com
+ - 🎯 **Phone:** <a href="https://wa.me/+5581997207924"> Send a message </a>
   
 - ⚡ Fun fact: I'm addicted in asian stuff such as: mangas, animes and doramas.
 
@@ -60,10 +60,3 @@
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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)
-
-
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me aboout ...
- 
-✅ I'm a super cat lover <3-->
