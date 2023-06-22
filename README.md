@@ -1,6 +1,5 @@
 # Hi Folks! 
-
-<img src="https://media.licdn.com/dms/image/D4D03AQES1_bmBBsnKQ/profile-displayphoto-shrink_800_800/0/1684536820679?e=2147483647&v=beta&t=sAlK3kFAnFddSFiyi4fN9JmHtjFJF3KYSREBLLJRRmA" alt="Hi folks!" width=400 height=400/>
+<img src="https://media.licdn.com/dms/image/D4D03AQES1_bmBBsnKQ/profile-displayphoto-shrink_800_800/0/1684536820679?e=2147483647&v=beta&t=sAlK3kFAnFddSFiyi4fN9JmHtjFJF3KYSREBLLJRRmA&fit=cover&mask=circle" class="circle" alt="Hi folks!" width="45%" height="45%"/>
 
 ### My name is Laura Oliveira 
 
