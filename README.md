@@ -15,10 +15,6 @@
  
   **Checkout APP on Playstore**:
 </div>
-   
- 😄 Pronouns: She/Her
- 
- 🔭 I’m currently working on: Android Development (Java/Kotlin)
  
  🌱 I’m currently learning:
    * iOS;
