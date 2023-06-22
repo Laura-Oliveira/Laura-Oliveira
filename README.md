@@ -9,7 +9,12 @@
  - 🎯 I have **6 years of experience** in the **IT sector**;
  - 🎯 **Mobile Android (2 years) (current focus)**;
  - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
+<!-- - 🎯Checkout my app QRCode Maker on playstore:
 
+    <img src="https://drive.google.com/file/d/1OpU2Q8xQN4z0Cy369F-RJ3DAp63cXMGP/view?usp=sharing" width="500" height="500"/>
+  <img src="./img/print_1.jpg" width="250" height="500"/> -->
+
+   
  😄 Pronouns: She/Her
  
  🔭 I’m currently working on: Android Development (Java/Kotlin)
