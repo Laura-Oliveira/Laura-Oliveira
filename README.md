@@ -9,11 +9,13 @@
  - 🎯 I have **6 years of experience** in the **IT sector**;
  - 🎯 **Mobile Android (2 years) (current focus)**;
  - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
-<!-- - 🎯Checkout my app QRCode Maker on playstore:
 
-    <img src="https://drive.google.com/file/d/1OpU2Q8xQN4z0Cy369F-RJ3DAp63cXMGP/view?usp=sharing" width="500" height="500"/>
-  <img src="./img/print_1.jpg" width="250" height="500"/> -->
+<div align="center">
 
+![qrcode_maker](https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22) 
+
+**Checkout on Playstore**:
+</div>
    
  😄 Pronouns: She/Her
  
