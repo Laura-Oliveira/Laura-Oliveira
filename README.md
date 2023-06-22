@@ -11,10 +11,9 @@
  - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
 
 <div align="center">
-
-![qrcode_maker](https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22) 
-
-**Checkout on Playstore**:
+  <img src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
+ 
+  **Checkout APP on Playstore**:
 </div>
    
  😄 Pronouns: She/Her
