@@ -9,6 +9,7 @@
  - 🎯 **Mobile Android (2 years) (current focus)**;
  - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
 
+## QRCode Maker APP
 <div align="center">
   <img src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
  
@@ -60,3 +61,6 @@
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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&theme=shades-of-purple)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)
+
+
+<!-- <div align="center"><b>  QRCode Maker  </b></div> -->
