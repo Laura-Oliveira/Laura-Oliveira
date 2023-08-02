@@ -1,5 +1,8 @@
 # Hi Folks! 
+
+<div align="center">
 <img src="https://media.licdn.com/dms/image/D4D03AQES1_bmBBsnKQ/profile-displayphoto-shrink_800_800/0/1684536820679?e=2147483647&v=beta&t=sAlK3kFAnFddSFiyi4fN9JmHtjFJF3KYSREBLLJRRmA&fit=cover&mask=circle" class="circle" alt="Hi folks!" width="45%" height="45%"/>
+</div>
 
 ### My name is Laura Oliveira 
 
@@ -33,15 +36,17 @@
  - 🎯 **Phone:** <a href="https://wa.me/+5581997207924"> Send a message </a>
 
 ### Languages & Tools 🛠  
+<div align="center">
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=green)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=for-the-badge&logo=kotlin)&nbsp;
 ![iOS](https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&logo=apple)&nbsp;
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-05122A?style=for-the-badge&logo=swift)&nbsp;
+![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-05122A?style=for-the-badge&logo=jetpackcompose&logoColor=green)&nbsp;
+![Material Design](https://img.shields.io/badge/-MaterialDesign-05122A?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=firebase)&nbsp;
 ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=for-the-badge&logo=gradle&logoColor=green)&nbsp;
-![Material Design](https://img.shields.io/badge/-MaterialDesign-05122A?style=for-the-badge&logo=materialdesign&logoColor=white)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=for-the-badge&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=for-the-badge&logo=css3&logoColor=blue)&nbsp;
@@ -53,6 +58,8 @@
 ![Power BI](https://img.shields.io/badge/-PowerBi-05122A?style=for-the-badge&logo=powerbi)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Azure Devops](https://img.shields.io/badge/-AzureDevops-05122A?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
+
+</div>
 
 ### Analytics ⚙️
 
