@@ -23,9 +23,7 @@
  🌱 I’m currently learning:
    * iOS;
    * Kotlin;
-   * MVVM;
-   * Firebase;
-   * Material Design;
+   * JetpackCompose;
    * Clean Architecture;
    * Courotines com Retrofit.
   
