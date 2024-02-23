@@ -24,8 +24,7 @@
    * iOS;
    * Kotlin;
    * JetpackCompose;
-   * Clean Architecture;
-   * Courotines com Retrofit.
+   * Clean Architecture.
   
  📫 How to reach me: 
  - 🎯 **Linkedin:** www.linkedin.com/in/laura-oliveira-mobile
