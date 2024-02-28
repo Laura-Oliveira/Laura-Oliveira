@@ -14,7 +14,7 @@
 
 ## Timer APP
 <div align="center">
-  <img src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
+  <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
   https://youtu.be/-g_7tRDWjiY
