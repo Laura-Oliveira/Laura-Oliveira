@@ -12,12 +12,20 @@
  - 🎯 **Mobile Android (Java/Android) (2 years) (current focus)**;
  - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
 
+## Timer APP
+<div align="center">
+  <img src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
+ 
+  **Checkout Demo** <br>
+  [[https://play.google.com/store/apps/details?id=com.code.maker](https://youtu.be/CpjHQXi3XMU)](https://youtu.be/-g_7tRDWjiY)
+</div>
+
 ## QRCode Maker APP
 <div align="center">
   <img src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
  
-  **Checkout APP on Playstore** <br>
-  https://play.google.com/store/apps/details?id=com.code.maker
+  **Checkout Demo** <br>
+  [https://play.google.com/store/apps/details?id=com.code.maker](https://youtu.be/CpjHQXi3XMU)
 </div>
  
  🌱 I’m currently learning:
