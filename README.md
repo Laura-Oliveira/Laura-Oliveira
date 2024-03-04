@@ -3,6 +3,11 @@
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4D03AQES1_bmBBsnKQ/profile-displayphoto-shrink_800_800/0/1684536820679?e=2147483647&v=beta&t=sAlK3kFAnFddSFiyi4fN9JmHtjFJF3KYSREBLLJRRmA&fit=cover&mask=circle" class="circle" alt="Hi folks!" width="45%" height="45%"/>
 </div>
+</div>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-oliveira-mobile/)](https://www.linkedin.com/in/laura-oliveira-mobile/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)](https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.oliveira.tech@gmail.com)](mailto:laura.oliveira.tech@gmail.com)
 
 ### My name is Laura Oliveira 
 
