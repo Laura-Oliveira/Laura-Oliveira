@@ -7,7 +7,7 @@
  
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-oliveira-mobile/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-oliveira-mobile/)](https://www.linkedin.com/in/laura-oliveira-mobile/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)](https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laura.oliveira.tech@gmail.com)](mailto:laura.oliveira.tech@gmail.com)
 
