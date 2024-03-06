@@ -20,7 +20,7 @@
 
 <div> 
   
-  I have **6 years** of experience as a **software engineer** and **2 years** of experience **building native apps**, considering the considering the full app lifecycle **from conception to launch on Playstore**. 
+  I work with technology since 2015 and **2 years** of experience **building native apps**, considering the considering the full app lifecycle **from conception to launch on Playstore**. 
 
 </div>
 
@@ -35,8 +35,6 @@
   I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**. 
 
 </div>
-
-### Checkout some apps I had developed
 
 ## Timer APP
 <div align="center">
