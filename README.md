@@ -15,9 +15,7 @@
 
 <div align="center">
   
-### My name is Laura Oliveira 
-
-### I'm a Mobile Developer
+### My name is Laura Oliveira and I'm a Mobile Developer
 </div>
 
  - 🎯 I have **6 years of experience** in the **IT sector**;
