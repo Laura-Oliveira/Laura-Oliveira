@@ -20,7 +20,7 @@
 
 <div> 
   
-  I work with technology since 2015 and **2 years** of experience **building native apps**, considering the considering the full app lifecycle **from conception to launch on Playstore**. 
+  I'm a software engineer with **6 years** of experience and I have  **2 years** of experience **building native apps**, considering the considering the full app lifecycle **from conception to launch on Playstore**. 
 
 </div>
 
