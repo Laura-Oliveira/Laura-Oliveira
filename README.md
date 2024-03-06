@@ -21,6 +21,8 @@
  - 🎯 **Mobile Android (Java/Android) (2 years) (current focus)**;
  - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
 
+### You can checkout some apps I had developed down below
+
 ## Timer APP
 <div align="center">
   <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
@@ -40,7 +42,7 @@
  🌱 I’m currently learning:
    * iOS;
    * Kotlin;
-   * JetpackCompose;
+   * Jetpack Compose;
    * Clean Architecture.
   
  ## Portfolio 
