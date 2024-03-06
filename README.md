@@ -52,7 +52,7 @@
 
 ## QRCode Maker APP
 <div align="center">
-  <img src="https://github.com/Laura-Oliveira/Laura-Oliveira/assets/12054959/b2db8ccc-fec9-4f62-b2bd-9c2f05b98d22" width="30%" height="30%">
+  <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
   https://youtu.be/CpjHQXi3XMU
