@@ -18,11 +18,11 @@
 ### My name is Laura Oliveira and I'm a Mobile Developer
 </div>
 
- - 🎯 I have **6 years of experience** in the **IT sector**;
- - 🎯 **Mobile Android (Java/Android) (2 years) (current focus)**;
- - 🎯 I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
+I have **6 years** of experience as a **software engineer** and **2 years** of experience **building native apps**, considering the considering the full app lifecycle **from conception to launch on Playstore**.
+My **mobile stack** is focused in currently focused in **Android (Java/Kotlin)**.
+I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**.
 
-### You can checkout some apps I had developed down below
+### Checkout some apps I had developed
 
 ## Timer APP
 <div align="center">
