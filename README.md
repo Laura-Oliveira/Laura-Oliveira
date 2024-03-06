@@ -32,7 +32,7 @@
 
 <div> 
   
-  My **mobile stack** is focused in currently focused in **Android (Java/Kotlin)**. 
+  My **mobile stack** is currently focused in **Android (Java/Kotlin)**. 
 
 </div>
 
