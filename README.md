@@ -1,4 +1,4 @@
-# Hi Folks! 
+# 👩🏻‍💻 Hi Folks! 
 
 <div align="center">
 <img src="https://media.licdn.com/dms/image/D4D03AQFOXbt5U3Slig/profile-displayphoto-shrink_800_800/0/1709545079989?e=1715212800&v=beta&t=t7vD0Z6mQmkYSgv2UoCDj531VETZNDGwgE5hQiraKG4&fit=cover&mask=circle" class="circle" alt="Hi folks!" width="45%" height="45%"/>
