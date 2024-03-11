@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
-  https://youtu.be/CfkUuS_QBno?si=RNnYkUcD-JvDljIz
+  https://youtu.be/chJKAHjLU_g
 </div>
 
 ## QRCode Maker APP
