@@ -55,7 +55,7 @@
   <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
-  https://youtu.be/CpjHQXi3XMU
+ https://youtu.be/vAVemUcGxrA
 </div>
  
  🌱 I’m currently learning:
