@@ -91,7 +91,6 @@ https://laura-oliveira.github.io/
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Azure Devops](https://img.shields.io/badge/-AzureDevops-05122A?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
 
-
 </div>
 
 ### Analytics ⚙️
