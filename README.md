@@ -8,9 +8,9 @@
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-oliveira-mobile/)](https://www.linkedin.com/in/laura-oliveira-mobile/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-F28B50?style=for-the-badge=round&logo=About.ME&logoColor=white)](https://laura-oliveira.github.io/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=round&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)](https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round&logo=Gmail&logoColor=white&link=mailto:laura.oliveira.tech@gmail.com)](mailto:laura.oliveira.tech@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-F28B50?style=for-the-badge=round&logo=About.ME&logoColor=white)](https://laura-oliveira.github.io/)
 
 </div>
 
