@@ -90,7 +90,6 @@ https://laura-oliveira.github.io/
 ![Power BI](https://img.shields.io/badge/-PowerBi-05122A?style=for-the-badge&logo=powerbi)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
 ![Azure Devops](https://img.shields.io/badge/-AzureDevops-05122A?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
-
 </div>
 
 ### Analytics ⚙️
