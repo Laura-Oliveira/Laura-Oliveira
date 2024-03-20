@@ -57,7 +57,8 @@
   **Checkout Demo** <br>
  https://youtu.be/vAVemUcGxrA
 </div>
- 
+
+
  🌱 I’m currently learning:
    * iOS;
    * Kotlin;
@@ -99,3 +100,6 @@ https://laura-oliveira.github.io/
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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&theme=shades-of-purple)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)
+
+
+<!-- > bloco  -->
