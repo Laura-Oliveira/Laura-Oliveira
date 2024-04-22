@@ -42,12 +42,12 @@
 
 </div>
 
-## Timer APP
+## Meeting Timer APP
 <div align="center">
   <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
  
-  **Checkout Demo** <br>
-  https://youtu.be/chJKAHjLU_g
+  **Download on Google Play** <br>
+https://play.google.com/store/apps/details?id=com.meeting.timer
 </div>
 
 ## QRCode Maker APP
@@ -58,6 +58,13 @@
  https://youtu.be/vAVemUcGxrA
 </div>
 
+## Timer APP
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
+ 
+  **Checkout Demo** <br>
+  https://youtu.be/chJKAHjLU_g
+</div>
 
  🌱 I’m currently learning:
    * iOS;
