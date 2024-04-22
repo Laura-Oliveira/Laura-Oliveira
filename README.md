@@ -26,7 +26,7 @@
 
 <div>
   
-  It's been  **2 years** since I started **building native apps**, considering the **full app lifecycle**, from **conception to launch on Playstore**. 
+  It's been  **3 years** since I started **building native apps**, considering the **full app lifecycle**, from **conception to launch on Playstore**. 
 
 </div>
 
