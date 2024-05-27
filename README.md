@@ -42,14 +42,6 @@
 
 </div>
 
-## Meeting Timer APP
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
- 
-  **Download on Google Play** <br>
-https://play.google.com/store/apps/details?id=com.meeting.timer
-</div>
-
 ## QRCode Maker APP
 <div align="center">
   <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
