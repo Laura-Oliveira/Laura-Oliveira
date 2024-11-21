@@ -59,8 +59,7 @@
 </div>
 
  🌱 I’m currently learning:
-   * iOS;
-   * Kotlin;
+   * iOS (SwiftUI);
    * Jetpack Compose;
    * Clean Architecture.
 
