@@ -94,7 +94,19 @@
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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&theme=shades-of-purple)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)  
 
 
-<!-- > bloco  -->
+<!-- > bloco
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laura-Oliveira&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Laura-Oliveira1&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+
+
+
+-->
