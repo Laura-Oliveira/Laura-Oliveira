@@ -62,7 +62,7 @@
  🌱 I’m currently learning:
    * iOS (SwiftUI);
    * Jetpack Compose;
-   * Clean Architecture.
+   * App Modularization.
 
 ### Tech & Tools 🛠  
 <div align="center">
