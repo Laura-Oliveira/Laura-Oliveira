@@ -1,3 +1,4 @@
+
 # 👩🏻‍💻 Hi Folks! 
 
 <div align="center">
@@ -96,14 +97,13 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=solarized_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- > bloco
 
+<!-- bloco 
+## 📚 Blog Posts
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Laura-Oliveira&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Laura-Oliveira1&theme=dark)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
+<!-- Include links to your recent blog posts or articles 
+- [Title of Blog Post 1](https://yourblog.com/post1) - A brief description or summary of the blog post.
+- [Title of Blog Post 2](https://yourblog.com/post2) - A brief description or summary of the blog post.
 -->
