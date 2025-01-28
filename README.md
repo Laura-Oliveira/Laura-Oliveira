@@ -47,8 +47,8 @@
 <div align="center">
   <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
  
-  **Checkout Demo** <br>
- https://youtu.be/vAVemUcGxrA
+  **Checkout Demo**  <br>
+ [https://youtu.be/vAVemUcGxrA](https://youtube.com/shorts/nDz_QD-xhlo?feature=share)
 </div>
 
 ## Timer APP
@@ -56,7 +56,15 @@
   <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
-  https://youtu.be/chJKAHjLU_g
+  [https://youtu.be/chJKAHjLU_g](https://youtube.com/shorts/4QeF8S3jBHQ?feature=share)
+</div>
+
+## Compostar APP
+<div align="center">
+ <img src="https://raw.githubusercontent.com/Laura-Oliveira/verdieira-app/refs/heads/main/app/src/main/res/drawable/logo_compostar.png" width="30%" height="30%">
+ 
+  **Checkout Demo** <br>
+  [https://youtu.be/chJKAHjLU_g](https://youtube.com/shorts/wlg6qj-URA4?feature=share)
 </div>
 
  🌱 I’m currently learning:
@@ -106,4 +114,13 @@
 <!-- Include links to your recent blog posts or articles 
 - [Title of Blog Post 1](https://yourblog.com/post1) - A brief description or summary of the blog post.
 - [Title of Blog Post 2](https://yourblog.com/post2) - A brief description or summary of the blog post.
+
+
+## QRCode Maker APP
+<div align="center">
+  <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
+ 
+  **Checkout Demo** <br>
+ [https://youtu.be/vAVemUcGxrA](https://youtube.com/shorts/nDz_QD-xhlo?feature=share)
+</div>
 -->
