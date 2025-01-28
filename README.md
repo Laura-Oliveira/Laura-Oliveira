@@ -61,7 +61,7 @@
 
 ## Compostar APP
 <div align="center">
- <img src="https://raw.githubusercontent.com/Laura-Oliveira/verdieira-app/refs/heads/main/app/src/main/res/drawable/logo_compostar.png" width="30%" height="30%">
+ <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
  
   **Checkout Demo** <br>
   [https://youtu.be/chJKAHjLU_g](https://youtube.com/shorts/wlg6qj-URA4?feature=share)
