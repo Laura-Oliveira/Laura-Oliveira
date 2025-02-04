@@ -107,6 +107,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=solarized_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
+
+
 <!-- bloco 
 ## 📚 Blog Posts
 
