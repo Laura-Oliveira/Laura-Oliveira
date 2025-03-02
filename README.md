@@ -42,7 +42,7 @@
 
 </div>
 
-## QRCode Maker APP
+## QRCode Maker APP (Kotlin)
 <div align="center">
   <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
  
@@ -50,7 +50,7 @@
  [https://youtu.be/vAVemUcGxrA](https://youtube.com/shorts/nDz_QD-xhlo?feature=share)
 </div>
 
-## Timer APP
+## Timer APP (Kotlin)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
  
@@ -58,7 +58,7 @@
   [https://youtu.be/chJKAHjLU_g](https://youtube.com/shorts/4QeF8S3jBHQ?feature=share)
 </div>
 
-## Compostar APP
+## Compostar APP (Kotlin)
 <div align="center">
  <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
  
