@@ -19,15 +19,11 @@
 </div>
 
 <div> 
-  
   I'm a **software engineer** with **7 years of experience**.
-
 </div> 
 
 <div>
-  
   It's been  **4 years** since I started **building native apps**, considering the **full app lifecycle**, from **conception to launch on Google Play**. 
-
 </div>
 
 <div> 
