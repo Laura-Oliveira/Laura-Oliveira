@@ -40,7 +40,7 @@
 
 ## Compostar APP (Kotlin)
 <div align="center">
- <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
+ <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="40%" height="40%">
  
   **Checkout Demo** <br>
   [https://youtu.be/chJKAHjLU_g](https://youtube.com/shorts/wlg6qj-URA4?feature=share)
@@ -56,7 +56,7 @@
 
 ## Links Pro APP (Kotlin)
 <div align="center">
- <img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="50%" height="50%">
+ <img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
  [https://laura-oliveira.github.io/english_page.html#projects_section]
