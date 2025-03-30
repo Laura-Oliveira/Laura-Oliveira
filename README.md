@@ -13,30 +13,17 @@
 
 </div>
 
-<div align="center">
-  
-### My name is Laura Oliveira and I'm a Mobile Developer
-</div>
+Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/>
+✅ **7 years as a Software Engineer**; <br/>
+✅ **4 years as an Android Developer (Java/Kotlin)**; <br/>
 
-<div> 
-  I'm a **software engineer** with **7 years of experience**.
-</div> 
+💻**Expertise in end-to-end mobile app development**, ensuring **high-quality user experience** and compliance with **Google Play Store policies**. <br/>
 
-<div>
-  It's been  **4 years** since I started **building native apps**, considering the **full app lifecycle**, from **conception to launch on Google Play**. 
-</div>
+💼 I’ve worked on 9 apps: <br/>
+• 4 apps built from scratch (Kotlin); <br/>
+• 5 apps maintenance (Java/Kotlin). <br/>
 
-<div> 
-  
-  My **mobile stack** is currently focused in **Android (Kotlin/Java)**. 
-
-</div>
-
-<div> 
-  
-  I have a **college degree in System Analysis** field by **Instituto Federal of Pernambuco - IFPE (graduated in 2021)**. 
-
-</div>
+🎓 I hold a Bachelor Degree in Systems Analysis from Instituto Federal de Pernambuco - IFPE (Graduated in 2021).
 
 ## Compostar APP (Kotlin)
 <div align="center">
