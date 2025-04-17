@@ -108,13 +108,4 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
 <!-- Include links to your recent blog posts or articles 
 - [Title of Blog Post 1](https://yourblog.com/post1) - A brief description or summary of the blog post.
 - [Title of Blog Post 2](https://yourblog.com/post2) - A brief description or summary of the blog post.
-
-
-## QRCode Maker APP
-<div align="center">
-  <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
- 
-  **Checkout Demo** <br>
- [https://youtu.be/vAVemUcGxrA](https://youtube.com/shorts/nDz_QD-xhlo?feature=share)
-</div>
 -->
