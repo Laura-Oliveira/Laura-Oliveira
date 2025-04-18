@@ -100,8 +100,6 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
 
 
 
-
-
 <!-- bloco 
 ## 📚 Blog Posts
 
