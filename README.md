@@ -99,7 +99,6 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
 
 <!-- bloco 
 ## 📚 Blog Posts
-
 <!-- Include links to your recent blog posts or articles 
 - [Title of Blog Post 1](https://yourblog.com/post1) - A brief description or summary of the blog post.
 - [Title of Blog Post 2](https://yourblog.com/post2) - A brief description or summary of the blog post.
