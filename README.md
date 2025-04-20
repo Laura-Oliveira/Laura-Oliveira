@@ -30,7 +30,7 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
  <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
  
   **Checkout Demo** <br>
-  (https://youtube.com/shorts/wlg6qj-URA4?feature=share)
+  https://youtube.com/shorts/wlg6qj-URA4?feature=share
 </div>
 
 ## Timer APP (Kotlin)
@@ -38,7 +38,7 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
   <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
-  (https://youtube.com/shorts/4QeF8S3jBHQ?feature=share)
+  https://youtube.com/shorts/4QeF8S3jBHQ?feature=share
 </div>
 
 ## Links Pro APP (Kotlin)
@@ -46,7 +46,7 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
  <img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
  
   **Checkout Demo** <br>
- (https://laura-oliveira.github.io/english_page.html#projects_section)
+ https://laura-oliveira.github.io/english_page.html#projects_section
 </div>
 
 ## QRCode Maker APP (Kotlin)
@@ -54,7 +54,7 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
   <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
  
   **Checkout Demo**  <br>
- (https://youtube.com/shorts/nDz_QD-xhlo?feature=share)
+ https://youtube.com/shorts/nDz_QD-xhlo?feature=share
 </div>
 
  🌱 I’m currently learning:
