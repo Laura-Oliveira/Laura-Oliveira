@@ -61,7 +61,7 @@
 <div align="center">
 <img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
 <br>
-<a href="https://laura-oliveira.github.io/english_page.html#projects_section">📌 View Project</a>
+<a href="https://www.laura-oliveira-mobile.com/projects">📌 View Project</a>
 </div>
 
 ---
