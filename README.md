@@ -1,68 +1,82 @@
-# 👩🏻‍💻 Hi Folks! 
+# 👩🏻‍💻 Hi Folks!
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQFOXbt5U3Slig/profile-displayphoto-shrink_800_800/0/1709545079989?e=2147483647&v=beta&t=_bGBizJkjUCkTjcH2pLxqpLYDL_eCa0R3wSl8Ep1HBo" alt="Hi folks!" width="45%" height="45%"/>
+<img src="https://media.licdn.com/dms/image/D4D03AQFOXbt5U3Slig/profile-displayphoto-shrink_800_800/0/1709545079989?e=2147483647&v=beta&t=_bGBizJkjUCkTjcH2pLxqpLYDL_eCa0R3wSl8Ep1HBo" alt="Laura Oliveira | Android Developer" width="45%" height="45%"/>
 </div>
- 
+
 <div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-oliveira-mobile/)](https://www.linkedin.com/in/laura-oliveira-mobile/)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-F28B50?style=for-the-badge=round&logo=About.ME&logoColor=white)](https://www.laura-oliveira-mobile.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=round&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)](https://api.whatsapp.com/send?phone=seu_telefone_5581997207924&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=round&logo=Gmail&logoColor=white&link=mailto:laura.oliveira.tech@gmail.com)](mailto:laura.oliveira.tech@gmail.com)
+
+<a href="https://www.linkedin.com/in/laura-oliveira-mobile/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height="40">
+</a>
+<a href="https://www.laura-oliveira-mobile.com">
+  <img src="https://img.shields.io/badge/Portfolio-F28B50?style=plastic&logoColor=white" height="40">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5581997207924&text=Olá!">
+  <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=plastic&logo=whatsapp&logoColor=white" height="40">
+</a>
 
 </div>
 
-Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/>
-✅ **7 years as a Software Engineer**; <br/>
-✅ **4 years as an Android Developer (Java/Kotlin)**; <br/>
+---
 
-💻**Expertise in end-to-end mobile app development**, ensuring **high-quality user experience** and compliance with **Google Play Store policies**. <br/>
+## 👋 About Me
 
-💼 I’ve worked on 9 apps: <br/>
-• 4 apps built from scratch (Kotlin); <br/>
-• 5 apps maintenance (Java/Kotlin). <br/>
+✨ Hello! I’m **Laura Oliveira**, a passionate **Android Developer** based in Brazil, looking for **opportunities in Europe**.
 
-🎓 I hold a Bachelor Degree in Systems Analysis from Instituto Federal de Pernambuco - IFPE (Graduated in 2021).
+- ✅ **7+ years in software engineering**
+- ✅ **4+ years focused on Android apps (Java & Kotlin)**
+- 📱 Expertise in **end-to-end app delivery**: architecture, coding, testing, publishing & Play Store compliance
+- 🧩 Strong in **clean architecture (MVVM)**, **UI/UX** and **modern Android stack**
+- 🌍 **Open to Work (Remote/Hybrid/Onsite) across Europe**
+- ✈️ **Open to Relocation** | **Visa Sponsorship Ready** 
 
-## Compostar APP (Kotlin)
+⚙️ Passionate about creating **high-quality mobile experiences** that impact users worldwide.  
+
+🎓 Bachelor’s in Systems Analysis (IFPE, 2021)
+
+---
+
+## 🚀 Featured Projects
+
+### ♻️ Compostar App (Kotlin)
 <div align="center">
- <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
- 
-  **Checkout Demo** <br>
-  https://youtube.com/shorts/wlg6qj-URA4?feature=share
+<img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
+<br>
+<a href="https://youtube.com/shorts/wlg6qj-URA4?feature=share">▶ Watch Demo</a>
 </div>
 
-## Timer APP (Kotlin)
+---
+
+### ⏱ Timer App (Kotlin)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
- 
-  **Checkout Demo** <br>
-  https://youtube.com/shorts/4QeF8S3jBHQ?feature=share
+<img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
+<br>
+<a href="https://youtube.com/shorts/4QeF8S3jBHQ?feature=share">▶ Watch Demo</a>
 </div>
 
-## Links Pro APP (Kotlin)
+---
+
+### 🔗 Links Pro App (Kotlin)
 <div align="center">
- <img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
- 
-  **Checkout Demo** <br>
- https://laura-oliveira.github.io/english_page.html#projects_section
+<img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
+<br>
+<a href="https://laura-oliveira.github.io/english_page.html#projects_section">📌 View Project</a>
 </div>
 
-## QRCode Maker APP (Kotlin)
+---
+
+### 📸 QRCode Maker App (Kotlin)
 <div align="center">
-  <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
- 
-  **Checkout Demo**  <br>
- https://youtube.com/shorts/nDz_QD-xhlo?feature=share
+<img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
+<br>
+<a href="https://youtube.com/shorts/nDz_QD-xhlo?feature=share">▶ Watch Demo</a>
 </div>
 
- 🌱 I’m currently learning:
-   * iOS (SwiftUI);
-   * Jetpack Compose;
-   * App Modularization.
+---
 
-### Tech & Tools 🛠  
+## 🛠 Tech Stack
+
 <div align="center">
 
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=android&logoColor=green)&nbsp;
@@ -87,21 +101,60 @@ Hello! I’m **Laura Oliveira**, an **experienced Android Developer** with: <br/
 ![Azure Devops](https://img.shields.io/badge/-AzureDevops-05122A?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
 </div>
 
-### Analytics ⚙️
+💡 **Currently learning**: SwiftUI, iOS basics, App modularization.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=Laura-Oliveira&count_private=true&show_icons=true&PAT_1=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&theme=shades-of-purple)
+## 📊 GitHub Analytics
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&range=all_time&PAT_1=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&theme=shades-of-purple)  
+<p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=solarized_dark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-Oliveira&langs_count=8&theme=shades-of-purple">
+<br>
+ <img src="https://github-readme-stats.vercel.app/api?username=Laura-Oliveira&count_private=true&show_icons=true&theme=shades-of-purple">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&theme=shades-of-purple">
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=solarized_dark">
+<br>
+</p>
 
 
+---
 
-<!-- bloco 
-## 📚 Blog Posts
-<!-- Include links to your recent blog posts or articles 
-- [Title of Blog Post 1](https://yourblog.com/post1) - A brief description or summary of the blog post.
-- [Title of Blog Post 2](https://yourblog.com/post2) - A brief description or summary of the blog post.
--->
+## 🌍 Open to New Opportunities – Europe & Remote
+
+I’m actively **open to work in Europe** (**remote or relocation**).  
+
+👩🏻‍💻Feel free to message me about:
+- Android Development roles
+- Mobile engineering challenges
+- Tech talks & open source
+
+📩 Let’s talk!
+
+---
+
+## ✨ Check out my Portfolio!
+
+👉 [**Visit my portfolio website**](https://www.laura-oliveira-mobile.com) to see detailed projects, case studies & tech stack.
+
+💬 Or connect directly via:
+<div align="center">
+
+<a href="https://www.linkedin.com/in/laura-oliveira-mobile/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height="40">
+</a>
+<a href="https://api.whatsapp.com/send?phone=5581997207924&text=Hello-from-Github!">
+  <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=plastic&logo=whatsapp&logoColor=white" height="40">
+</a>
+ 
+📩 laura.oliveira.tech@gmail.com
+</div>
+
+---
+
+> ⭐ *Thanks for stopping by! Excited to collaborate on impactful mobile apps across Europe!*
