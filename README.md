@@ -43,7 +43,7 @@
 <div align="center">
 <img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
 <br>
-<a href="https://youtube.com/shorts/wlg6qj-URA4?feature=share">▶ Watch Demo</a>
+<a href="https://youtube.com/shorts/wlg6qj-URA4?feature=share" target="_blank">▶ Watch Demo</a>
 </div>
 
 ---
@@ -52,7 +52,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
 <br>
-<a href="https://youtube.com/shorts/4QeF8S3jBHQ?feature=share">▶ Watch Demo</a>
+<a href="https://youtube.com/shorts/4QeF8S3jBHQ?feature=share" target="_blank">▶ Watch Demo</a>
 </div>
 
 ---
@@ -61,7 +61,7 @@
 <div align="center">
 <img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
 <br>
-<a href="https://laura-oliveira.github.io/english_page.html#projects_section">📌 View Project</a>
+<a href="https://laura-oliveira.github.io/english_page.html#projects_section" target="_blank">📌 View Project</a>
 </div>
 
 ---
@@ -70,7 +70,7 @@
 <div align="center">
 <img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
 <br>
-<a href="https://youtube.com/shorts/nDz_QD-xhlo?feature=share">▶ Watch Demo</a>
+<a href="https://youtube.com/shorts/nDz_QD-xhlo?feature=share" target="_blank">▶ Watch Demo</a>
 </div>
 
 ---
