@@ -116,9 +116,9 @@
 <br>
  <img src="https://github-readme-stats.vercel.app/api?username=Laura-Oliveira&count_private=true&show_icons=true&theme=shades-of-purple">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&theme=shades-of-purple">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&theme=nightowl">
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=solarized_dark">
+<img src="https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=nightowl">
 <br>
 </p>
 
