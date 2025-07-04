@@ -114,10 +114,20 @@
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laura-Oliveira&hide_border=true&theme=shades-of-purple">
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=Laura-Oliveira&theme=shades-of-purple">
-<br>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laura-Oliveira&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laura-Oliveira&theme=tokyonight">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laura-Oliveira&theme=tokyonight">
+</p>
 
 ---
 
@@ -150,6 +160,12 @@ I’m actively **open to work in Europe** (**remote or relocation**).
  
 📩 laura.oliveira.tech@gmail.com
 </div>
+
+---
+
+## ✨ Quote of the day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
