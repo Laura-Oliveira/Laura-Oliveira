@@ -170,3 +170,5 @@ I’m actively **open to work in Europe** (**remote or relocation**).
 ---
 
 > ⭐ *Thanks for stopping by! Excited to collaborate on impactful mobile apps across Europe!*
+
+
