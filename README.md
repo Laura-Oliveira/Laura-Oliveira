@@ -1,19 +1,19 @@
 # 👩🏻‍💻 Hi Folks!
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQFOXbt5U3Slig/profile-displayphoto-shrink_800_800/0/1709545079989?e=2147483647&v=beta&t=_bGBizJkjUCkTjcH2pLxqpLYDL_eCa0R3wSl8Ep1HBo" alt="Laura Oliveira | Android Developer" width="45%" height="45%"/>
+<img src="https://media.licdn.com/dms/image/D4D03AQFOXbt5U3Slig/profile-displayphoto-shrink_800_800/0/1709545079989?e=2147483647&v=beta&t=_bGBizJkjUCkTjcH2pLxqpLYDL_eCa0R3wSl8Ep1HBo" alt="Laura Oliveira | Android Developer" width="50%" height="450px"/>
 </div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/laura-oliveira-mobile/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height="50">
 </a>
 <a href="https://www.laura-oliveira-mobile.com">
-  <img src="https://img.shields.io/badge/Portfolio-F28B50?style=plastic&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Portfolio-F28B50?style=plastic&logoColor=white" height="50">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5581997207924&text=Olá!">
-  <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=plastic&logo=whatsapp&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=plastic&logo=whatsapp&logoColor=white" height="50">
 </a>
 
 </div>
@@ -41,7 +41,7 @@
 
 ### ♻️ Compostar App (Kotlin)
 <div align="center">
-<img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="50%">
+<img src="https://github.com/Laura-Oliveira/verdieira-app/blob/main/img/logo_compostar.png" width="50%" height="100px">
 <br>
 <a href="https://youtube.com/shorts/wlg6qj-URA4?feature=share">▶ Watch Demo</a>
 </div>
@@ -50,7 +50,7 @@
 
 ### ⏱ Timer App (Kotlin)
 <div align="center">
-<img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="30%">
+<img src="https://raw.githubusercontent.com/Laura-Oliveira/QRCode-Maker/main/img/timer.png" width="30%" height="300px">
 <br>
 <a href="https://youtube.com/shorts/4QeF8S3jBHQ?feature=share">▶ Watch Demo</a>
 </div>
@@ -59,7 +59,7 @@
 
 ### 🔗 Links Pro App (Kotlin)
 <div align="center">
-<img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="30%">
+<img src="https://github.com/Laura-Oliveira/Links-Pro-1/blob/main/app/src/main/ic_icon-playstore.png" width="30%" height="300px">
 <br>
 <a href="https://www.laura-oliveira-mobile.com/projects">📌 View Project</a>
 </div>
@@ -68,7 +68,7 @@
 
 ### 📸 QRCode Maker App (Kotlin)
 <div align="center">
-<img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="30%">
+<img src="https://github.com/Laura-Oliveira/QRCode-Maker/blob/main/img/qr-code.png" width="30%" height="300px">
 <br>
 <a href="https://youtube.com/shorts/nDz_QD-xhlo?feature=share">▶ Watch Demo</a>
 </div>
