@@ -116,20 +116,19 @@
 <br>
 </p>
 
----
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Laura-Oliveira&theme=tokyonight">
-
-</p>
-<!--
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Laura-Oliveira&theme=tokyonight">
+</p>
+
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laura-Oliveira&theme=tokyonight">
 </p>
-->
+-->
 
 ---
 
