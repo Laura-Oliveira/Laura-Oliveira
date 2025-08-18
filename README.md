@@ -132,7 +132,7 @@
 
 ---
 
-## 🌍 Open to New Opportunities – Europe & Remote
+## 🌍 Open to New Opportunities – Relocation & Remote
 
 I’m actively **open to work in Europe** (**remote or relocation**).  
 
@@ -170,6 +170,6 @@ I’m actively **open to work in Europe** (**remote or relocation**).
 
 ---
 
-> ⭐ *Thanks for stopping by! Excited to collaborate on impactful mobile apps across Europe!*
+> ⭐ *Thanks for stopping by! Excited to collaborate on impactful mobile apps worldwide!*
 
 
