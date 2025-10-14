@@ -134,7 +134,7 @@
 
 ## 🌍 Open to New Opportunities – Relocation & Remote
 
-I’m actively **open to work in Europe** (**remote or relocation**).  
+I’m actively **open to work** (**remote or relocation**).  
 
 👩🏻‍💻Feel free to message me about:
 - Android Development roles
