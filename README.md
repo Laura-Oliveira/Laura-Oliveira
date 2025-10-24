@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-✨ Hello! I’m **Laura Oliveira**, a passionate **Android Developer** based in Brazil, looking for **opportunities in Europe**.
+✨ Hello! I’m **Laura Oliveira**, a passionate **Android Developer** based in Brazil, **open to opportunities**.
 
 - ✅ **7+ years in software engineering**
 - ✅ **4+ years focused on Android apps (Java & Kotlin)**
