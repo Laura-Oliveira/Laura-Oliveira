@@ -28,8 +28,7 @@
 - ✅ **4+ years focused on Android apps (Java & Kotlin)**
 - 📱 Expertise in **end-to-end app delivery**: architecture, coding, testing, publishing & Play Store compliance
 - 🧩 Strong in **clean architecture (MVVM)**, **UI/UX** and **modern Android stack**
-- 🌍 **Open to Work (Remote/Hybrid/Onsite) across Europe**
-- ✈️ **Open to Relocation** | **Visa Sponsorship Ready** 
+- 🌍 **Open to Work (Remote/Hybrid/Onsite)**
 
 ⚙️ Passionate about creating **high-quality mobile experiences** that impact users worldwide.  
 
