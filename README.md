@@ -132,9 +132,9 @@
 
 ---
 
-## 🌍 Open to New Opportunities – Relocation & Remote
+## 🌍 Open to New Opportunities
 
-I’m actively **open to work** (**remote or relocation**).  
+I’m actively **open to work**.
 
 👩🏻‍💻Feel free to message me about:
 - Android Development roles
