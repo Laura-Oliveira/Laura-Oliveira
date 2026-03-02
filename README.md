@@ -34,6 +34,11 @@
 
 🎓 Bachelor’s in Systems Analysis (IFPE, 2021)
 
+🗣️ Languages
+🇦🇺English (C1)
+🇦🇷Spanish (B2)
+🇧🇷Portuguese (C2 - native
+
 ---
 
 ## 🚀 Featured Projects
