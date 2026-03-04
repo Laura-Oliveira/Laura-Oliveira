@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Hi Folks!
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQFOXbt5U3Slig/profile-displayphoto-shrink_800_800/0/1709545079989?e=2147483647&v=beta&t=_bGBizJkjUCkTjcH2pLxqpLYDL_eCa0R3wSl8Ep1HBo" alt="Laura Oliveira | Android Developer" width="50%" height="450px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6Gd754YydKS809GiTmDbCNJA7hLjlt-jXw&s" alt="Laura Oliveira | Android Developer" width="50%" height="450px"/>
 </div>
 
 <div align="center">
