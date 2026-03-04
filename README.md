@@ -24,7 +24,7 @@
 
 ✨ Hello! I’m **Laura Oliveira**, a passionate **Mobile Engineer** based in Brazil, **open to opportunities**.
 
-- ✅ **8+ years in software engineering**
+- ✅ **8+ years as software engineer**
 - ✅ **4+ years building Android Apps (Java & Kotlin)**
 - 📱 Expertise in **end-to-end app delivery**: architecture, coding, testing, publishing & Play Store compliance
 - 🧩 Strong in **clean architecture (MVVM)**, **UI/UX** and **modern Android stack**
