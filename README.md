@@ -141,7 +141,7 @@
 
 ## 🌍 Open to New Opportunities
 
-I’m actively **open to work**.
+I’m actively **open to opportunities**.
 
 👩🏻‍💻Feel free to message me about:
 - Android Development roles
