@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Hi Folks!
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6Gd754YydKS809GiTmDbCNJA7hLjlt-jXw&s" alt="Laura Oliveira | Android Developer" width="50%" height="450px"/>
+<img src="https://pbs.twimg.com/media/F0JC049WIAIVYGo.jpg" alt="Laura Oliveira | Android Developer" width="45%" height="500px"/>
 </div>
 
 <div align="center">
