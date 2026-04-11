@@ -158,13 +158,15 @@ I’m actively **open to opportunities**.
 
 💬 Or connect directly via:
 <div align="center">
-
+  
+<!--
 <a href="https://www.linkedin.com/in/laura-oliveira-mobile/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height="30">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5581997207924&text=Hello-from-Github!">
   <img src="https://img.shields.io/badge/Whatsapp-4CA143?style=plastic&logo=whatsapp&logoColor=white" height="30">
 </a>
+-->
  
 📩 laura.oliveira.tech@gmail.com
 </div>
