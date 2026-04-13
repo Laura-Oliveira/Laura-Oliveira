@@ -6,9 +6,12 @@
 
 <div align="center">
 
+<!--
 <a href="https://www.linkedin.com/in/laura-oliveira-mobile/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" height="50">
 </a>
+-->
+
 <a href="https://laura-oliveira.github.io/english_page.html?lang=en">
   <img src="https://img.shields.io/badge/Portfolio-F28B50?style=plastic&logoColor=white" height="50">
 </a>
