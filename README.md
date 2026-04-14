@@ -115,7 +115,7 @@
 ![Azure Devops](https://img.shields.io/badge/-AzureDevops-05122A?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
 </div>
 
-💡 **Currently learning**: SwiftUI, iOS basics, App modularization.
+💡 **Currently learning**: Jetpack Compose, Kotlin Multiplatform (KMP), SwiftUI, iOS basics, App modularization.
 
 ---
 
